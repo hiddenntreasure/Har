@@ -19,3 +19,5 @@ Used a ``` list=[]``` and append 9 different signal to the list.Apply ``` as_mat
 | 3| 1| 0| 0|
 
 ```np.random.seed(n)``` is used to create random numbers.which doesn't change every time re run the program. opposite: ```np.random.rand(n)```
+
+TensorFlow CPUs and GPUs Configuration[click here](https://medium.com/@liyin2015/tensorflow-cpus-and-gpus-configuration-9c223436d4ef)
