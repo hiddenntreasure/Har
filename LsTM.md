@@ -22,7 +22,7 @@ Used a ``` list=[]``` and append 9 different signal to the list.Apply ``` as_mat
 
 ```tf.ConfigProto``` 
 
-TensorFlow CPUs and GPUs Configuration[click here](https://medium.com/@liyin2015/tensorflow-cpus-and-gpus-configuration-9c223436d4ef)
+TensorFlow CPUs and GPUs Configuration[above code](https://medium.com/@liyin2015/tensorflow-cpus-and-gpus-configuration-9c223436d4ef)
 
 ```np.random.seed(42)```
 
