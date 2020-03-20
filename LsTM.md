@@ -11,7 +11,7 @@ Used a ``` list=[]``` and append 9 different signal to the list.Apply ``` as_mat
 
 ```pd.get_dummies('abca')```
    
-   a  b  c
+#  a  b  c
    
 0  1  0  0
 
