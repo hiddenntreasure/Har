@@ -27,5 +27,6 @@ TensorFlow CPUs and GPUs Configuration[click here](https://medium.com/@liyin2015
 ```np.random.seed(42)
 import tensorflow as tf
 tf.set_random_seed(42)```
+
 [click here to understand the above code](https://github.com/tensorflow/tensorflow/issues/29101)
 
