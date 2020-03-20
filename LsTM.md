@@ -12,14 +12,10 @@ Used a ``` list=[]``` and append 9 different signal to the list.Apply ``` as_mat
 ```pd.get_dummies('abca')```
 
 |  | a| b| c|
-|--|--|--|--|
-   
+|--|--|--|--|  
 | 0| 1| 0| 0|
-
 | 1| 0| 1| 0|
-
 | 2| 0| 0| 1|
-
 | 3| 1| 0| 0|
 
 ```np.random.seed(n)``` is used to create random numbers.which doesn't change every time re run the program. opposite: ```np.random.rand(n)```
