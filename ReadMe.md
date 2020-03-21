@@ -53,7 +53,9 @@ To understand the above code[click here ](https://github.com/tensorflow/tensorfl
 # LSTM layer/Multilayer
 
 ```model.add(LSTM(64,input_shape=(timesteps,input_dim),return_sequences=True))```
+
 ```model.add(LSTM(64,return_sequences=True))```
+
 ```model.add(LSTM(64))```
 
 Score = [0.4868,0.8965]
