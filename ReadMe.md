@@ -39,12 +39,12 @@ To understand the above code[click here ](https://github.com/tensorflow/tensorfl
 
 ```model.add(LSTM(n_hidden,input_shape=(timesteps,input_dim)))```
 
-*Input shape*
+**Input shape**
 
 2D tensor with shape ```(timesteps, input_dim)```
 
 
-*units/hidden layers*: Positive integer, dimensionality of the output space.
+**units/hidden layers**: Positive integer, dimensionality of the output space.
 
 ### Output layers
 
