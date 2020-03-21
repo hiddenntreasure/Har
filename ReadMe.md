@@ -54,9 +54,20 @@ To understand the above code[click here ](https://github.com/tensorflow/tensorfl
 
 ```model.add(LSTM(64,input_shape=(timesteps,input_dim),return_sequences=True))```
 
-```model.add(LSTM(64,return_sequences=True))```
+```model.add(LSTM(32,return_sequences=True))```
 
-```model.add(LSTM(64))```
+```model.add(LSTM(8))```
 
 Score = [0.4868,0.8965]
 
+accuracy = 0.9460
+
+```model.add(LSTM(64,input_shape=(timesteps,input_dim),return_sequences=True))```
+
+```model.add(LSTM(32,return_sequences=True))```
+
+```model.add(LSTM(8))```
+
+[0.6002451362634195, 0.8951476077366813]
+
+accuracy = 0.9521
